@@ -36,4 +36,4 @@ Choose your preferred size and error correction level.
 Click the "Generate QR Code" button to create your QR code.
 Download the generated QR code by clicking the "Download" button.   
 
-#Demo : https://www.linkedin.com/in/ayan-chatterjee-24aa3a207/
+# Demo : https://www.linkedin.com/in/ayan-chatterjee-24aa3a207/
