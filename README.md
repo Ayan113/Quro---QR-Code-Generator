@@ -7,8 +7,7 @@ Quro is a simple yet powerful web application that allows users to generate QR c
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Demo](#demo)
-- [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Features
 
